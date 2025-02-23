@@ -10,7 +10,7 @@ Examples:
 <tr>
 <td>
    
-   <img src="/Arcade-Karen-Pics/AVP AKLS.jpg" />
+   <img src="/karen.png" />
    
  </td>
 </tr>
